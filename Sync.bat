@@ -1,1 +1,0 @@
-copy Y:\Dropbox\gaems\*.* Q:\GitWhore\gaems
